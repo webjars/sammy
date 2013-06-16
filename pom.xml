@@ -9,7 +9,7 @@
 
 	<groupId>org.webjars</groupId>
 	<artifactId>sammy</artifactId>
-	<version>0.7.4</version>
+	<version>0.7.5-SNAPSHOT</version>
 	<name>sammy</name>
 	<description>WebJar for Sammy.js</description>
 	<url>http://webjars.org</url>
@@ -26,7 +26,7 @@
         <url>http://github.com/webjars/sammy</url>
         <connection>scm:git:https://github.com/webjars/sammy.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/sammy.git</developerConnection>
-        <tag>sammy-0.7.4</tag>
+        <tag>HEAD</tag>
     </scm>
 
 	<developers>
